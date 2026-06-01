@@ -1,6 +1,6 @@
 # caddisfly-ct-u-net
 
-This repository contains code for a U-Net based machine learning model to automatically segment silk glands from caddisfly micro CT imagery.
+This repository contains code for a U-Net based machine learning model to automatically segment silk glands from caddisfly micro CT imagery. The model utilizes Keras within R. The model can be run with the `caddisfly_ct_model.R` script.
 
 # Directories
 
